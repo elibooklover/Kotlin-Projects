@@ -31,12 +31,22 @@
   },
   {
     "id": 7,
-    "title": "Gladiator",
-    "url": "http://4.bp.blogspot.com/-FWmOyN2wFTI/TlRKQ2luZeI/AAAAAAAABgE/W3cKvcwmdoo/s1600/80_tif.jpg"
+    "title": "Good looking guy",
+    "url": "https://media.glamourmagazine.co.uk/photos/6138b9a85341d7d4e342ca40/master/w_2580%2Cc_limit/00jamie-campbell-bower_glamour_20sep13_pa_b.jpg"
   },
   {
     "id": 8,
     "title": "Brad Pitt",
     "url": "https://images2.fanpop.com/image/photos/10300000/pitt-brad-pitt-10357723-1200-944.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Suit guy",
+    "url": "https://media.glamourmagazine.co.uk/photos/6138b9a9a35312eec2784d32/master/w_2580%2Cc_limit/03robert-pattinson_glamour_20sep13_rex_b.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Ryan Gosling",
+    "url": "https://media.glamourmagazine.co.uk/photos/6138b9a8ba092ab636a1214b/master/w_2580%2Cc_limit/05ryan-gosling_glamour_20sep13_rex_b.jpg"
   }
 ]
