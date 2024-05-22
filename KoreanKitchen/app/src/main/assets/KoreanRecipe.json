@@ -1,0 +1,93 @@
+{
+  "recipe": [
+    {
+      "title": "Korean BBQ",
+      "description": "A popular Korean dish featuring grilled meats, served with various side dishes.",
+      "foodImage": "https://revupware.files.wordpress.com/2023/04/pexels-photo-2313686.jpeg",
+      "ingredients": [
+        "1 lb (450g) thinly sliced beef (ribeye, sirloin, or brisket)",
+        "1/2 cup soy sauce",
+        "1/4 cup brown sugar",
+        "2 tablespoons sesame oil",
+        "4 cloves garlic, minced",
+        "1 teaspoon ginger, minced",
+        "2 tablespoons rice wine (mirin)",
+        "1/4 teaspoon black pepper",
+        "Assorted vegetables for grilling (e.g., bell peppers, mushrooms, onions)",
+        "Cooked rice and lettuce leaves for serving"
+      ],
+      "instructions": [
+        "1. In a bowl, whisk together soy sauce, brown sugar, sesame oil, minced garlic, minced ginger, rice wine, and black pepper to make the marinade.",
+        "2. Place the thinly sliced beef in a shallow dish and pour the marinade over it. Cover and refrigerate for at least 1 hour, or overnight for best results.",
+        "3. Preheat the grill to medium-high heat. Grill the marinated beef slices for 1-2 minutes on each side until cooked through and slightly charred.",
+        "4. Grill the assorted vegetables until tender.",
+        "5. Serve the grilled beef and vegetables with cooked rice and lettuce leaves. Wrap the beef and vegetables in lettuce leaves and enjoy!"
+      ],
+      "totalTime": "Cooking Time: 1 hour 20 minutes",
+      "serving": "Serving: 4 servings"
+    },
+    {
+      "title": "Bibimbap",
+      "description": "A traditional Korean mixed rice dish topped with assorted vegetables, meat, and a fried egg.",
+      "foodImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dolsot-bibimbap.jpg/1920px-Dolsot-bibimbap.jpg",
+      "ingredients": [
+        "2 cups cooked short-grain rice",
+        "1 cup assorted vegetables (e.g., spinach, carrots, bean sprouts, mushrooms, zucchini)",
+        "1/2 lb (225g) beef, thinly sliced",
+        "2 tablespoons soy sauce",
+        "1 tablespoon sugar",
+        "1 tablespoon sesame oil",
+        "2 cloves garlic, minced",
+        "4 eggs",
+        "Sesame seeds for garnish",
+        "Sliced green onions for garnish",
+        "Gochujang (Korean chili paste) for serving (optional)"
+      ],
+      "instructions": [
+        "1. In a bowl, mix soy sauce, sugar, sesame oil, and minced garlic to make the marinade. Add the thinly sliced beef and marinate for 20-30 minutes.",
+        "2. Prepare the assorted vegetables by blanching or stir-frying them until tender-crisp. Season with salt and sesame oil.",
+        "3. Fry the eggs sunny-side up or over-easy.",
+        "4. To assemble bibimbap, place a serving of cooked rice in a bowl. Arrange the assorted vegetables, marinated beef, and fried egg on top of the rice.",
+        "5. Garnish with sesame seeds and sliced green onions. Serve with gochujang on the side for extra flavor.",
+        "6. Mix everything together before eating. Enjoy!"
+      ],
+      "totalTime": "Cooking Time: 45 minutes",
+      "serving": "Serving: 4 servings"
+    },
+    {
+      "title": "Kimchi Fried Rice",
+      "description": "A delicious Korean dish made with fried rice and kimchi.",
+      "foodImage": "https://images.food52.com/A5wHNzWKG0kawzDkXopMki_wKn8=/2016x1344/filters:format(webp)/4a40d6f3-4009-4bae-95d5-7e50466c1b4f--2018-0717_jeans-kimchi-fried-rice_3x2_rocky-luten_033.jpg",
+      "ingredients": [
+        "2 cups cooked rice",
+        "1 cup kimchi, chopped",
+        "2 tablespoons kimchi juice",
+        "2 tablespoons vegetable oil",
+        "1/2 onion, chopped",
+        "2 cloves garlic, minced",
+        "1/2 cup cooked protein (e.g., chicken, pork, tofu)",
+        "2 green onions, chopped",
+        "2 tablespoons soy sauce",
+        "1 tablespoon sesame oil",
+        "1 teaspoon sugar (optional)",
+        "1 teaspoon sesame seeds, for garnish",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "1. Heat vegetable oil in a large skillet over medium heat.",
+        "2. Add chopped onion and minced garlic to the skillet. Cook until fragrant and onions are translucent.",
+        "3. Add chopped kimchi and cook for 2-3 minutes.",
+        "4. Add cooked rice to the skillet and break up any clumps.",
+        "5. Stir in kimchi juice, soy sauce, sesame oil, and sugar (if using). Mix well to combine.",
+        "6. Add cooked protein (e.g., chicken, pork, tofu) and green onions to the skillet. Stir until everything is heated through.",
+        "7. Taste and adjust seasoning with salt and pepper if needed.",
+        "8. Garnish with sesame seeds before serving.",
+        "9. Serve hot and enjoy!"
+      ],
+      "totalTime": "Cooking Time: 25 minutes",
+      "serving": "Serving: 2-3 servings"
+    }
+  ]
+}
+
+
